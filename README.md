@@ -78,7 +78,8 @@ Can have as many arguments as you like
 Can use %tc which means date and time
 Can use %tr which means just the time
 Can use %tA %tB %td to mean day of the week, month and day
-
+You can use the calander object to make classes and convinetly deal with dates
+Static imports can be used to avoid having to type Math. though it can make your code harder to understand
 
 
 
